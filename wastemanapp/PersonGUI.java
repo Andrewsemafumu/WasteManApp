@@ -6,7 +6,7 @@ package wastemanapp;
 
 /**
  *
- * @author Hoang
+ * @author Enrico
  */
 public class PersonGUI extends javax.swing.JFrame {
 
