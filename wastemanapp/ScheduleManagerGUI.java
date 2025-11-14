@@ -7,7 +7,7 @@ package wastemanapp;
 
 /**
  *
- * @author Hoang
+ * @author Timothy
  */
 public class ScheduleManagerGUI extends javax.swing.JFrame  {
     
