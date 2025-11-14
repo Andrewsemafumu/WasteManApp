@@ -6,7 +6,7 @@ package wastemanapp;
 
 /**
  *
- * @author Hoang
+ * @author Timothy
  */
 public class CollectionScheduleGUI extends javax.swing.JFrame {
 
