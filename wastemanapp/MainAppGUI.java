@@ -6,7 +6,7 @@ package wastemanapp;
 
 /**
  *
- * @author Hoang
+ * @author Timothy
  */
 public class MainAppGUI extends javax.swing.JFrame {
 
